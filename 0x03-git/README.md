@@ -1,1 +1,1 @@
-Git Directory created
+Git Directory is created
